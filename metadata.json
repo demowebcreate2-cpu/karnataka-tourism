@@ -1,0 +1,6 @@
+{
+  "name": "Karnataka Tourism - One State, Many Worlds",
+  "description": "Official travel and tourism portal for Karnataka featuring Travel Guides, Cultural Heritage, Wildlife, and Adventure Activities across the state.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
